@@ -50,6 +50,9 @@ Obviously, this is only a starting point in a journey. But I think it's  good st
 * [Visual Studio Code](https://code.visualstudio.com/) <br>
   Developed in Javascript, this open source project is built in Electron by Microsoft and works in Windows, Linux and Mac.
 
+* Visual Studio plugin - Live Server <br>
+  It serves the HTML page and updates the page when each file is updated (Javascript, HTML and CSS).
+
 ## Best debugging tools for client side
 * [Google Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
 
